@@ -605,3 +605,6 @@ CONFIG_CMA_AREAS=15
 # Fast charge                                                                                                                             
 CONFIG_FORCE_FAST_CHARGE=y
 
+# Set CPU voltage sysfs interface
+CONFIG_CPU_VOLTAGE_TABLE=y
+
