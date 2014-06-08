@@ -601,3 +601,7 @@ CONFIG_DEBUG_LIST=y
 
 CONFIG_CFG80211_INTERNAL_REGDB=y
 CONFIG_CMA_AREAS=15
+
+# Fast charge                                                                                                                             
+CONFIG_FORCE_FAST_CHARGE=y
+
